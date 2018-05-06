@@ -1,5 +1,5 @@
-@import url("css/normalize.css");
-@import url("css/demo.css");
+@import url("../css/normalize.css");
+@import url("../css/demo.css");
 @font-face {
   font-family: 'entypo-selected';
   src: url("font/entypo-selected.eot");
